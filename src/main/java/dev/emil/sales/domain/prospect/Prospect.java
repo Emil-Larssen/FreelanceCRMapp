@@ -15,4 +15,5 @@ public final class Prospect {
     public UUID getUUID() {
         return this.id;
     }
+
 }

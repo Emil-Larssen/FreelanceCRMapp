@@ -82,5 +82,6 @@ public class DealTests {
         deal.sendOffer();
         deal.closeDeal();
         assertEquals(DealState.CLOSED, deal.getState());
+
     }
 }
