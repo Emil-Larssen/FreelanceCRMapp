@@ -5,13 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>dev.emil</groupId>
-    <artifactId>CRM</artifactId>
+    <artifactId>Sales</artifactId>
     <version>1.0-SNAPSHOT</version>
-
-    <packaging>pom</packaging>
-    <modules>
-        <module>Sales</module>
-    </modules>
 
     <properties>
         <maven.compiler.source>24</maven.compiler.source>
