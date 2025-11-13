@@ -20,4 +20,9 @@
   layer dependency will be composed at the presentation layer)
   - Tasks will own cost so that later when invoices are created the customer will see clearly what they are paying for
   which services. (customer transparency and trust building)
+  - Task object must contain a UUID, name, description, state and price in addition to the parent dealId :2025-11-13
+
+
+
+
 

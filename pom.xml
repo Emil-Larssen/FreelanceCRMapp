@@ -11,6 +11,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>Sales</module>
+        <module>Delivery</module>
     </modules>
 
     <properties>
